@@ -2,6 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import CommandBoxArea from "./CommandFrameComponents/CommandBoxArea";
 import OutputArea from "./CommandFrameComponents/OutputArea";
+import { Button } from "react-bootstrap";
 
 const Frame = styled.div`
   width: 30vw;
