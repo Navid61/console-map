@@ -5,6 +5,7 @@ import CommandFrameButton from "./Button";
 import '../../../Style/CommandFrame/CommandBoxArea/CommandBoxArea.css'
 
 
+
 const Frame = styled.div`
   width:100%;
   height: 14rem;

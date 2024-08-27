@@ -5,7 +5,7 @@ import Map from '../Map/Map';
 const Frame = styled.div`
   width: 70vw;
   float:right;
-  height: 90vh;
+  height: 95vh;
   padding: 20px;
   margin: 10px;
   border: 1px solid red;

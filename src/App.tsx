@@ -1,8 +1,8 @@
 import React, { Suspense } from "react";
-import "./App.css";
+// import "./App.css";
 import MapMainFrame from "./Components/MapMainFrame.tsx/MapMainFrame";
 
-function App() {
+function App():JSX.Element {
   return (
     <>
       <Suspense fallback={<div>Loading...</div>}>
